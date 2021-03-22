@@ -10,3 +10,5 @@ compile_commands.json
 build/
 xmlerrors
 /.clang-format
+/.project
+/.settings
