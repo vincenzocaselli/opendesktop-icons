@@ -1,7 +1,8 @@
-# Breeze Icons
+# OpenDesktop Icons
 
 ## Introduction
 
+OpenDesktop Icons is a fork of Breeze-icons.
 Breeze-icons is a freedesktop.org compatible icon theme. It's developed by the KDE Community as part of KDE Frameworks 5 and it's used by default in KDE Plasma 5 and KDE Applications.
 
 ## Guidelines
