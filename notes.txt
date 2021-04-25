@@ -1,0 +1,3 @@
+NOTE: Only contents of folder /icons-dark is used to generate rm -rf OpenDesktop-DarkIcons
+
+Changed /icons-dark/actions/(16,22,32)/go-(down,next,previous,up).svg , added dark arrow #4D4D4D
