@@ -1,0 +1,16 @@
+Breeze & Elementary OS icon set for GNOME and KDE Plasma.
+
+Best results with   opendesktop-dark-gtk   -   https://www.gnome-look.org/p/1501052
+
+The image is taken from the OpenDesktop-Dark Global Theme (https://store.kde.org/p/1484021), which automatically installs also this icon set.
+
+KDE Plasma users may go to System Settings, Appearance, Icons, Get New Icons..., search for OpenDesktop-Icons and apply it.
+Non-KDE Plasma users may download and unzip the compressed file into ~/.icons (create .icons folder if it doesn't exists in your home); then apply it depending on your system (e.g. on Ubuntu use Tweaks) 
+
+Based on the following work:
+* https://github.com/KDE/breeze-icons/tree/master/icons-dark
+* https://github.com/elementary/icons
+with minor changes.
+
+(included in "OpenDesktop-Dark" KDE Plasma Global theme - https://www.pling.com/p/1484021 
+if installed via KDE, System Settings, Appearance, Global Theme, Get New Global Themes... button, Search... OpenDesktop-Dark, Install, Apply)
